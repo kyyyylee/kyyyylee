@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kyyyylee
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning TypeScript
 
 
 <!---
