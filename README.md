@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kyyyylee
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning Svelte
+- 🌱 I’m currently learning Java
 
 
 <!---
